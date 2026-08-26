@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 626 779" role="img" aria-labelledby="title description">
-  <title id="title">ASCII portrait of Mohamed Aziz Sridi</title>
-  <desc id="description">A portrait composed entirely of text characters.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 779" role="img" aria-labelledby="title description">
+  <title id="title">Mohamed Aziz Sridi profile header</title>
+  <desc id="description">ASCII portrait with a centered introduction for a software engineer, mobile developer, and AI and data science engineering student seeking an end-of-studies internship or work opportunity.</desc>
   <style>
     .name { fill: #4493f8; font: 600 25px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .ascii { fill: #57606a; font: 10px Consolas, "Courier New", monospace; }
+    .role { fill: #4493f8; font: 600 25px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .body { fill: #8b949e; font: 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .status { fill: #4493f8; font: 600 18px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     @media (prefers-color-scheme: dark) {
       .ascii { fill: #8b949e; }
     }
@@ -82,5 +85,12 @@
     <tspan x="8" y="715.5">.@#=--*@%+=----------------@@@@=-------------------@#..-@*=@#:.-@=-----------------@*----------*#...</tspan>
     <tspan x="8" y="726">-@#++*%@@%###**************************************@@#**@@@@%++*@@@%%%%#####*******@%*********#@@...</tspan>
   </text>
+  </g>
+  <g aria-label="Profile introduction">
+    <text class="role" x="665" y="278">Software Engineer | Mobile Developer</text>
+    <text class="role" x="665" y="313">AI &amp; Data Science Engineering Student</text>
+    <text class="body" x="665" y="369">Final-year engineering student based in Tunisia.</text>
+    <text class="status" x="665" y="425">Looking for an end-of-studies internship</text>
+    <text class="status" x="665" y="454">or a work opportunity.</text>
   </g>
 </svg>

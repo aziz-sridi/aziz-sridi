@@ -1,17 +1,9 @@
-<img align="left" src="./assets/aziz-ascii.svg" width="52%" alt="Mohamed Aziz Sridi - ASCII portrait" />
+<img src="./assets/aziz-ascii.svg" width="100%" alt="Mohamed Aziz Sridi, Software Engineer, Mobile Developer, and AI and Data Science Engineering Student seeking an end-of-studies internship or work opportunity" />
 
-<h3>Software Engineer | Mobile Developer | AI &amp; Data Science Engineering Student</h3>
-
-<p>Final-year Data Science and Machine Learning engineering student based in Tunisia.</p>
-
-<p><strong>Currently looking for an end-of-studies internship or a work opportunity.</strong></p>
-
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:medazizsridi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
-
-<br clear="left" />
 
 ## Overview
 
