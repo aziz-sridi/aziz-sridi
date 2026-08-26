@@ -1,85 +1,56 @@
+<table>
+  <tr>
+    <td width="44%" align="center">
+      <div align="center">
+        <h1>Mohamed Aziz Sridi</h1>
+        <img src="./assets/aziz-ascii.svg" width="100%" alt="ASCII portrait of Mohamed Aziz Sridi" />
+      </div>
+    </td>
+    <td width="56%" valign="middle">
+      <h3>Software Engineer | Mobile Developer | AI &amp; Data Science Engineer</h3>
+      <p>Computer Science graduate from Tunisia, currently pursuing an engineering degree in Data Science and Machine Learning.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:medazizsridi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center"><b>Hi, I'm Aziz 👋</b></h1>
-<!--  -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF00&center=true&vCenter=true&random=false&width=435&lines=I%27m+A+Computer+Science+Student;An+AI+Enthusiast;And+A+Quick+Learner+🚀" alt="Typing SVG" />
-  </a>
-</div>
+---
 
+## Overview
 
-<br>
-<br>
+I am interested in mobile development, software engineering, machine learning, and computer vision.
 
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills And Tools </b>
+## Top Skills
 
-<p align="center">
-  <b>Frontend Development</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react&perline=5" alt="Frontend Development Icons" style="pointer-events: none;" />
-</p>
+### Mobile Development
 
-<p align="center">
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java&perline=5" alt="Programming Language Icons" style="pointer-events: none;" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, and Android Studio" />
 
-<p align="center">
-  <b>Tools & Technologies</b><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode,linux,photoshop,illustrator&perline=5" alt="Tools & Technologies Icons" style="pointer-events: none;" />
-</p>
+### Machine Learning & AI
 
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" alt="Python, OpenCV, and TensorFlow" />
 
+### Programming Languages
 
+<img src="https://skillicons.dev/icons?i=dart,python,cpp,java,js" alt="Dart, Python, C++, Java, and JavaScript" />
 
-<br>
+### Frontend Development
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="HTML, CSS, JavaScript, React, and Bootstrap" />
 
-<br>
+### Backend, APIs & Databases
 
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postman" alt="Firebase, Supabase, MySQL, and Postman" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+### Tools & OS
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" alt="Git, GitHub, Figma, Visual Studio Code, and Linux" />
 
+### Other Technologies
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aziz-sridi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
-
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b>
-<div>
-  <samp>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://www.facebook.com/medazizsridi" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:medazizsridi@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/azizsridi/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+21695202231" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-
-
-
-<div align='center'>
+REST APIs · SQL · JSON · SLAM · Clean Architecture · Mobile UI/UX · Google Classroom integration
