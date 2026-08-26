@@ -1,29 +1,21 @@
-<table>
-  <tr>
-    <td width="44%" align="center">
-      <div align="center">
-        <h1>Mohamed Aziz Sridi</h1>
-        <img src="./assets/aziz-ascii.svg" width="100%" alt="ASCII portrait of Mohamed Aziz Sridi" />
-      </div>
-    </td>
-    <td width="56%" valign="middle">
-      <h3>Software Engineer | Mobile Developer | AI &amp; Data Science Engineer</h3>
-      <p>Computer Science graduate from Tunisia, currently pursuing an engineering degree in Data Science and Machine Learning.</p>
-      <p>
-        <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-        <a href="mailto:medazizsridi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="left" src="./assets/aziz-ascii.svg" width="52%" alt="Mohamed Aziz Sridi - ASCII portrait" />
 
----
+<h3>Software Engineer | Mobile Developer | AI &amp; Data Science Engineering Student</h3>
+
+<p>Final-year Data Science and Machine Learning engineering student based in Tunisia.</p>
+
+<p><strong>Currently looking for an end-of-studies internship or a work opportunity.</strong></p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:medazizsridi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
+
+<br clear="left" />
 
 ## Overview
 
 I am interested in mobile development, software engineering, machine learning, and computer vision.
-
----
 
 ## Top Skills
 
