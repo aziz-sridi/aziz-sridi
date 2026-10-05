@@ -1,0 +1,144 @@
+{
+  "artist": "Hacker93",
+  "sharedBy": "SantinoP",
+  "source": "https://scratch.mit.edu/projects/305192876/",
+  "license": "CC BY-SA 2.0 (Scratch shared project terms)",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "frames": [
+    {
+      "name": "stand_1",
+      "file": "stand_1.png",
+      "width": 46,
+      "height": 130,
+      "anchorX": 21,
+      "anchorY": 63,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/f26f12e31fe97b8d05b74595b5958957.png/get/"
+    },
+    {
+      "name": "stand_2",
+      "file": "stand_2.png",
+      "width": 50,
+      "height": 130,
+      "anchorX": 25,
+      "anchorY": 63,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/1a391fe2952bd9a0ba936dd2c226ed10.png/get/"
+    },
+    {
+      "name": "stand_3",
+      "file": "stand_3.png",
+      "width": 50,
+      "height": 130,
+      "anchorX": 25,
+      "anchorY": 63,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/9e2dd0ff491dc60d0269992a8638cc2e.png/get/"
+    },
+    {
+      "name": "stand_4",
+      "file": "stand_4.png",
+      "width": 52,
+      "height": 130,
+      "anchorX": 27,
+      "anchorY": 63,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/0a543cd15804bce986dc325762d9780d.png/get/"
+    },
+    {
+      "name": "stand_5",
+      "file": "stand_5.png",
+      "width": 50,
+      "height": 130,
+      "anchorX": 25,
+      "anchorY": 63,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/012413b4d323e23b71e8dbbde1ef0e38.png/get/"
+    },
+    {
+      "name": "seriouspunch_1",
+      "file": "seriouspunch_1.png",
+      "width": 46,
+      "height": 130,
+      "anchorX": 21,
+      "anchorY": 63,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/f26f12e31fe97b8d05b74595b5958957.png/get/"
+    },
+    {
+      "name": "seriouspunch_2",
+      "file": "seriouspunch_2.png",
+      "width": 52,
+      "height": 118,
+      "anchorX": 13,
+      "anchorY": 51,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/40343541df7e1c58f1e2087b6644b884.png/get/"
+    },
+    {
+      "name": "seriouspunch_3",
+      "file": "seriouspunch_3.png",
+      "width": 72,
+      "height": 118,
+      "anchorX": 31,
+      "anchorY": 51,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/d7be8127d96d45a2039f37166ab01927.png/get/"
+    },
+    {
+      "name": "seriouspunch_4",
+      "file": "seriouspunch_4.png",
+      "width": 120,
+      "height": 108,
+      "anchorX": 51,
+      "anchorY": 41,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/e52c3d7dcfa5a692e863bbe12bb77a1e.png/get/"
+    },
+    {
+      "name": "seriouspunch_5",
+      "file": "seriouspunch_5.png",
+      "width": 114,
+      "height": 108,
+      "anchorX": 49,
+      "anchorY": 41,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/24336a170fc34887d1d9ab67d5eaf4d2.png/get/"
+    },
+    {
+      "name": "seriouspunch_6",
+      "file": "seriouspunch_6.png",
+      "width": 134,
+      "height": 108,
+      "anchorX": 49,
+      "anchorY": 41,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/2e171dc1ece50aabb8e2087f76b156b2.png/get/"
+    },
+    {
+      "name": "seriouspunch_7",
+      "file": "seriouspunch_7.png",
+      "width": 110,
+      "height": 108,
+      "anchorX": 25,
+      "anchorY": 41,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/e2fc16577c281fe98423e55e8ce3b132.png/get/"
+    },
+    {
+      "name": "seriouspunch_8",
+      "file": "seriouspunch_8.png",
+      "width": 88,
+      "height": 118,
+      "anchorX": 43,
+      "anchorY": 51,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/d0c7b516a21876f43b62296a3b57d857.png/get/"
+    },
+    {
+      "name": "seriouspunch_9",
+      "file": "seriouspunch_9.png",
+      "width": 50,
+      "height": 120,
+      "anchorX": 17,
+      "anchorY": 53,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/97091bdee4e3454c274e6e8f3cbc8bdc.png/get/"
+    },
+    {
+      "name": "seriouspunch_10",
+      "file": "seriouspunch_10.png",
+      "width": 46,
+      "height": 130,
+      "anchorX": 21,
+      "anchorY": 63,
+      "sourceAsset": "https://assets.scratch.mit.edu/internalapi/asset/f26f12e31fe97b8d05b74595b5958957.png/get/"
+    }
+  ]
+}

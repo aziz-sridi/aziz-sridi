@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 626 741" role="img" aria-labelledby="title description">
-  <title id="title">ASCII portrait of Mohamed Aziz Sridi</title>
-  <desc id="description">A portrait composed entirely of text characters.</desc>
+  <title id="title">ASCII portrait of Saitama</title>
+  <desc id="description">Saitama from One-Punch Man, composed entirely of text characters.</desc>
   <style>
     .ascii { fill: #57606a; font: 10px Consolas, "Courier New", monospace; }
     @media (prefers-color-scheme: dark) {
