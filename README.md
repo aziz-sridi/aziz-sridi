@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:medazizsridi@gmail.com">Email</a>
+  <a href="mailto:medazizsridi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="20" alt="Email Aziz" /></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn profile" /></a>
 </p>
 
 <h1 align="center">Mohamed Aziz Sridi</h1>
@@ -18,27 +18,39 @@
 
 ## About
 
-I'm a final-year Data Science and Machine Learning engineering student based in Tunisia. My main focus is AI, especially machine learning and computer vision, and how they can be used in practical applications.
+I'm a final-year Data Science and Machine Learning engineering student in Tunisia, looking for an AI internship.
 
-I work with Python, TensorFlow, and OpenCV, and I'm also interested in SLAM. I'm looking for an AI internship where I can deepen my skills and contribute to real projects.
-
-Outside my studies, I build mobile and web apps for fun. I enjoy creating interfaces, connecting apps to APIs and databases, and keeping the code organized with clean architecture.
+I work mainly with Python, TensorFlow, and OpenCV. I'm interested in computer vision and SLAM, and I build mobile and web apps for fun.
 
 ## Stack
 
-<p align="center"><strong>AI &amp; machine learning</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&amp;perline=3" alt="Python, TensorFlow, and OpenCV" />
-</p>
+- **AI & machine learning:** Python, TensorFlow, OpenCV
 
-| Area | Technologies |
-| :--- | :--- |
-| Frontend | React, JavaScript, HTML, CSS, Bootstrap |
-| Backend & APIs | Firebase, Supabase, REST APIs, JSON |
-| Databases | MySQL, SQL |
-| Mobile | Flutter, Dart, Android Studio |
-| Other languages | C++, Java |
-| Tools | Git, GitHub, Linux, Figma, VS Code, Postman |
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="32" alt="" />
+
+- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap
+
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" height="32" alt="" />
+
+- **Backend & APIs:** Firebase, Supabase, REST APIs, JSON
+
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="32" alt="" />
+
+- **Databases:** MySQL, PostgreSQL, SQL
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="32" alt="" />
+
+- **Mobile:** Flutter, Dart, Android Studio
+
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" height="32" alt="" />
+
+- **Other languages:** C++, Java
+
+  <img src="https://skillicons.dev/icons?i=cpp,java" height="32" alt="" />
+
+- **Tools:** Git, GitHub, Linux, Figma, VS Code, Postman
+
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,postman" height="32" alt="" />
 
 <br />
 
@@ -54,7 +66,7 @@ Outside my studies, I build mobile and web apps for fun. I enjoy creating interf
 ## Connect
 
 <p align="center">
-  <a href="mailto:medazizsridi@gmail.com">Email me</a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="https://github.com/aziz-sridi?tab=repositories">Explore my repositories</a>
+  <a href="mailto:medazizsridi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="20" alt="Email Aziz" /></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn profile" /></a> &nbsp; / &nbsp;
+  <a href="https://github.com/aziz-sridi?tab=repositories"><img src="https://skillicons.dev/icons?i=github" height="20" alt="" /> Explore my repositories</a>
 </p>

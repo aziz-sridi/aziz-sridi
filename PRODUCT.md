@@ -28,10 +28,11 @@ Do not copy Pac-Man or add a generic contribution snake. The user likes the anim
 - Let useful profile content remain easy to scan.
 - Lead with AI and machine learning; label app development as a hobby.
 - Remove explanations of the artwork and generic profile filler.
+- Keep the About section short, direct, and natural.
 - Leave featured projects out until the user requests them.
 - Make the contribution calendar the source of the animation.
-- Show the complete AI, frontend, backend, database, mobile, and developer toolkit openly, without a collapsed disclosure.
-- Keep LinkedIn and email links centered beneath the introduction.
+- Show the complete AI, frontend, backend, database, mobile, and developer toolkit as a list with icons, without a table or collapsed disclosure.
+- Keep contact links centered beneath the introduction, with email first. Email and LinkedIn use clickable icons with accessible labels and no visible text.
 - Let the contribution card carry its own title; do not repeat it in a Markdown heading.
 - Work inside GitHub README constraints with self-contained SVGs.
 
