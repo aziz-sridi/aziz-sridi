@@ -40,6 +40,13 @@ def main():
         assert svg.find(f"{NS}title") is not None
         assert svg.find(f"{NS}desc") is not None
         assert svg.find(f".//{NS}script") is None
+        if "stack-toolbox-once" in path:
+            assert svg.get("data-module") == "stack-toolbox"
+            style = svg.find(f"{NS}style").text
+            animations = re.findall(r"animation:([^;}]+)", style)
+            assert animations and all(value == "none!important" or " 1 both" in value for value in animations)
+            assert "infinite" not in style, "The profile skills board must play once"
+            assert len([node for node in svg.iter() if "data-skill" in node.attrib]) == 16
         if "one-punch" in path:
             frames = json.loads((ASSETS / "saitama/frames.json").read_text(encoding="utf-8"))["frames"]
             original_images = {(ASSETS / "saitama" / frame["file"]).read_bytes() for frame in frames}
@@ -59,6 +66,9 @@ def main():
         assert "prefers-reduced-motion" in (ROOT / path).read_text(encoding="utf-8")
     for anchor in re.findall(r'href="#([^"]+)"', readme):
         assert f"## {anchor.replace('-', ' ').title()}".lower() in readme.replace("One-Punch", "One Punch").lower()
+    assert "## Tegridy Commits" in readme and "## Skills Board" in readme
+    for suffix in ("", "-dark"):
+        assert f"https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits{suffix}.svg" in readme
     print("PASS: parser, calendar integrity, GitHub month spacing, SVGs, day counts, reduced motion, and README links")
 
 

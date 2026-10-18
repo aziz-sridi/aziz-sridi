@@ -22,7 +22,23 @@ I'm a final-year Data Science and Machine Learning engineering student in Tunisi
 
 I work mainly with Python, TensorFlow, and OpenCV. I'm interested in computer vision and SLAM, and I build mobile and web apps for fun.
 
-## Stack
+## Tegridy Commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits.svg" width="900" alt="Randy draws contribution squares with a crayon, then rain washes them away to reveal my real GitHub contribution calendar." />
+  </picture>
+</p>
+
+## Skills Board
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/randy/stack-toolbox-once-dark.svg" />
+    <img src="./assets/randy/stack-toolbox-once.svg" width="900" alt="Randy throws my technology skills into labeled categories on a wooden board, then the completed board stays visible." />
+  </picture>
+</p>
 
 - **AI & machine learning:** Python, TensorFlow, OpenCV
 
@@ -52,16 +68,7 @@ I work mainly with Python, TensorFlow, and OpenCV. I'm interested in computer vi
 
   <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,postman" height="32" alt="" />
 
-<br />
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/one-punch-commits-dark.svg" />
-    <img src="./assets/one-punch-commits.svg" width="900" alt="Pixel-art Saitama lands a bright punch impact. A yellow-orange pressure wave and smaller aftershock scatter the contribution squares before they return to their dates." />
-  </picture>
-</p>
-
-<p align="center"><sub><a href="./assets/saitama/CREDITS.md">Sprite credits</a></sub></p>
+<p align="center"><sub><a href="./assets/saitama/CREDITS.md">Introduction credits</a> &middot; <a href="./assets/randy/CREDITS.md">Randy animation credits</a></sub></p>
 
 ## Connect
 
