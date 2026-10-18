@@ -67,6 +67,8 @@ def main():
     for anchor in re.findall(r'href="#([^"]+)"', readme):
         assert f"## {anchor.replace('-', ' ').title()}".lower() in readme.replace("One-Punch", "One Punch").lower()
     assert "## Tegridy Commits" in readme and "## Skills Board" in readme
+    assert re.findall(r"^## (.+)$", readme, re.MULTILINE) == ["About", "Skills Board", "Connect", "Tegridy Commits"]
+    assert "- **AI & machine learning:**" not in readme, "The Skills Board replaces the old skills list"
     for suffix in ("", "-dark"):
         assert f"https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits{suffix}.svg" in readme
     print("PASS: parser, calendar integrity, GitHub month spacing, SVGs, day counts, reduced motion, and README links")

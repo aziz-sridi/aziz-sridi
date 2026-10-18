@@ -22,15 +22,6 @@ I'm a final-year Data Science and Machine Learning engineering student in Tunisi
 
 I work mainly with Python, TensorFlow, and OpenCV. I'm interested in computer vision and SLAM, and I build mobile and web apps for fun.
 
-## Tegridy Commits
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits-dark.svg" />
-    <img src="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits.svg" width="900" alt="Randy draws contribution squares with a crayon, then rain washes them away to reveal my real GitHub contribution calendar." />
-  </picture>
-</p>
-
 ## Skills Board
 
 <p align="center">
@@ -40,36 +31,6 @@ I work mainly with Python, TensorFlow, and OpenCV. I'm interested in computer vi
   </picture>
 </p>
 
-- **AI & machine learning:** Python, TensorFlow, OpenCV
-
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="32" alt="" />
-
-- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap
-
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" height="32" alt="" />
-
-- **Backend & APIs:** Firebase, Supabase, REST APIs, JSON
-
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="32" alt="" />
-
-- **Databases:** MySQL, PostgreSQL, SQL
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="32" alt="" />
-
-- **Mobile:** Flutter, Dart, Android Studio
-
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" height="32" alt="" />
-
-- **Other languages:** C++, Java
-
-  <img src="https://skillicons.dev/icons?i=cpp,java" height="32" alt="" />
-
-- **Tools:** Git, GitHub, Linux, Figma, VS Code, Postman
-
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,vscode,postman" height="32" alt="" />
-
-<p align="center"><sub><a href="./assets/saitama/CREDITS.md">Introduction credits</a> &middot; <a href="./assets/randy/CREDITS.md">Randy animation credits</a></sub></p>
-
 ## Connect
 
 <p align="center">
@@ -77,3 +38,14 @@ I work mainly with Python, TensorFlow, and OpenCV. I'm interested in computer vi
   <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn profile" /></a> &nbsp; / &nbsp;
   <a href="https://github.com/aziz-sridi?tab=repositories"><img src="https://skillicons.dev/icons?i=github" height="20" alt="" /> Explore my repositories</a>
 </p>
+
+## Tegridy Commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits.svg" width="900" alt="Randy draws contribution squares with a crayon, then rain washes them away to reveal my real GitHub contribution calendar." />
+  </picture>
+</p>
+
+<p align="center"><sub><a href="./assets/saitama/CREDITS.md">Introduction credits</a> &middot; <a href="./assets/randy/CREDITS.md">Randy animation credits</a></sub></p>
