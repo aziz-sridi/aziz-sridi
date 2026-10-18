@@ -32,8 +32,9 @@ Do not copy Pac-Man or add a generic contribution snake. The user likes the anim
 - Leave featured projects out until the user requests them.
 - Make the contribution calendar the source of the animation.
 - Use the single-play Skills Board as the skills section. Remove the duplicated text and icon list.
-- Put Tegridy Commits at the bottom, after Connect.
-- Keep contact links centered beneath the introduction, with email first. Email and LinkedIn use clickable icons with accessible labels and no visible text.
+- Put Tegridy Commits at the bottom, after the Skills Board.
+- Keep one centered contact row beneath the introduction: Email, LinkedIn, and Projects, with matching icons and visible link labels. Remove the separate Connect section.
+- Omit the repeated name, role, and internship/location block beneath the contact row. Preserve the introduction artwork and About text.
 - Use the requested Markdown headings: Tegridy Commits and Skills Board.
 - Work inside GitHub README constraints with self-contained SVGs.
 

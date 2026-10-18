@@ -8,13 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:medazizsridi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="20" alt="Email Aziz" /></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn profile" /></a>
+  <a href="mailto:medazizsridi@gmail.com" title="medazizsridi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="24" height="24" alt="" /> Email</a> &nbsp; &middot; &nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" alt="" /> LinkedIn</a> &nbsp; &middot; &nbsp;
+  <a href="https://github.com/aziz-sridi?tab=repositories"><img src="https://skillicons.dev/icons?i=github" width="24" height="24" alt="" /> Projects</a>
 </p>
-
-<h1 align="center">Mohamed Aziz Sridi</h1>
-<p align="center">AI &amp; Machine Learning engineering student</p>
-<p align="center"><strong>Seeking an AI internship · Based in Tunisia</strong></p>
 
 ## About
 
@@ -29,14 +26,6 @@ I work mainly with Python, TensorFlow, and OpenCV. I'm interested in computer vi
     <source media="(prefers-color-scheme: dark)" srcset="./assets/randy/stack-toolbox-once-dark.svg" />
     <img src="./assets/randy/stack-toolbox-once.svg" width="900" alt="Randy throws my technology skills into labeled categories on a wooden board, then the completed board stays visible." />
   </picture>
-</p>
-
-## Connect
-
-<p align="center">
-  <a href="mailto:medazizsridi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="20" alt="Email Aziz" /></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://skillicons.dev/icons?i=linkedin" height="20" alt="LinkedIn profile" /></a> &nbsp; / &nbsp;
-  <a href="https://github.com/aziz-sridi?tab=repositories"><img src="https://skillicons.dev/icons?i=github" height="20" alt="" /> Explore my repositories</a>
 </p>
 
 ## Tegridy Commits
