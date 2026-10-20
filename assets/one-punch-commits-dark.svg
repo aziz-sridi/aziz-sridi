@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" role="img" aria-labelledby="title description">
-<title id="title">One-Punch Commits</title><desc id="description">910 contributions from 2025-10-19 to 2026-10-19. Pixel Saitama lands a bright punch impact and sends a yellow-orange pressure wave across the calendar, with a smaller aftershock fading behind it. Every contribution square returns to its real date and intensity.</desc>
+<title id="title">One-Punch Commits</title><desc id="description">910 contributions from 2025-10-19 to 2026-10-20. Pixel Saitama lands a bright punch impact and sends a yellow-orange pressure wave across the calendar, with a smaller aftershock fading behind it. Every contribution square returns to its real date and intensity.</desc>
 <style>
 text { font-family: 'Trebuchet MS', Arial, sans-serif; fill: #f0eee7; }
 .muted { fill: #a5abb3; }
@@ -447,6 +447,7 @@ image[id^="sprite-"] { image-rendering: pixelated; }
 <g transform="translate(841.64 263)"><rect class="tile" width="9.00" height="10" rx="1.5" fill="#151b23" stroke="#363c44" stroke-width=".5" style="--kick-x:28.8px;--kick-y:-21.4px;--kick-spin:-112.5deg;--dx:48px;--dy:-33px;--spin:-250deg;--drift-x:43.2px;--drift-y:-13px;--drift-spin:-312.5deg;animation-delay:1.297s"><title>2026-10-17: 0 contributions</title></rect></g>
 <g transform="translate(853.28 167)"><rect class="tile" width="9.00" height="10" rx="1.5" fill="#196c2e" style="--kick-x:63.0px;--kick-y:-39.0px;--kick-spin:-109.8deg;--dx:105px;--dy:-60px;--spin:-244deg;--drift-x:94.5px;--drift-y:-40px;--drift-spin:-305.0deg;animation-delay:1.322s"><title>2026-10-18: 19 contributions</title></rect></g>
 <g transform="translate(853.28 183)"><rect class="tile" width="9.00" height="10" rx="1.5" fill="#151b23" stroke="#363c44" stroke-width=".5" style="--kick-x:55.8px;--kick-y:-53.3px;--kick-spin:-59.0deg;--dx:93px;--dy:-82px;--spin:-131deg;--drift-x:83.7px;--drift-y:-62px;--drift-spin:-163.8deg;animation-delay:1.322s"><title>2026-10-19: 0 contributions</title></rect></g>
+<g transform="translate(853.28 199)"><rect class="tile" width="9.00" height="10" rx="1.5" fill="#151b23" stroke="#363c44" stroke-width=".5" style="--kick-x:-40.8px;--kick-y:-42.2px;--kick-spin:69.3deg;--dx:-68px;--dy:-65px;--spin:154deg;--drift-x:-61.2px;--drift-y:-45px;--drift-spin:192.5deg;animation-delay:1.322s"><title>2026-10-20: 0 contributions</title></rect></g>
 <g transform="translate(232 208)"><g class="shockwave animated-only">
 <g transform="scale(1)">
 <path d="M-28-76C10-65 39-43 57-18L38-48C73-23 91 18 79 49L71 63C58 74 39 78 14 71L0 65C30 64 47 51 44 34L47 42C50 20 34-6 11-24L20-20C6-40-10-58-28-76Z" fill="#f0962b"/>
