@@ -28,12 +28,12 @@ I work mainly with Python, TensorFlow, and OpenCV. I'm interested in computer vi
   </picture>
 </p>
 
-## Tegridy Commits
+## Push Access
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits-dark.svg" />
-    <img src="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/tegridy-commits.svg" width="900" alt="Randy draws contribution squares with a crayon, then rain washes them away to reveal my real GitHub contribution calendar." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/push-access-dark.svg" />
+    <img src="https://raw.githubusercontent.com/aziz-sridi/randy-readmes/main/dist/push-access.svg" width="900" alt="Randy presses git push, blows up my contribution calendar, falls, and gets back up holding a Works on my machine sign." />
   </picture>
 </p>
 
