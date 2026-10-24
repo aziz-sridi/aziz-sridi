@@ -10,7 +10,8 @@
 <p align="center">
   <a href="mailto:medazizsridi@gmail.com" title="medazizsridi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="24" height="24" alt="" /> Email</a> &nbsp; &middot; &nbsp;
   <a href="https://www.linkedin.com/in/mohamed-aziz-sridi-62a0b3255/"><img src="https://skillicons.dev/icons?i=linkedin" width="24" height="24" alt="" /> LinkedIn</a> &nbsp; &middot; &nbsp;
-  <a href="https://github.com/aziz-sridi?tab=repositories"><img src="https://skillicons.dev/icons?i=github" width="24" height="24" alt="" /> Projects</a>
+  <a href="https://github.com/aziz-sridi?tab=repositories"><img src="https://skillicons.dev/icons?i=github" width="24" height="24" alt="" /> Projects</a> &nbsp; &middot; &nbsp;
+  <a href="https://www.azizsridi.me/">Website</a>
 </p>
 
 ## About
